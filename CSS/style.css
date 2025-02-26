@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+h1{
+    color: blue;
+    text-decoration-line: overline;
+    text-align: center;
+
+}
+h2{
+    color: blueviolet;
+    font-size: 60px;
+}
